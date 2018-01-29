@@ -1,0 +1,28 @@
+# Blender MTL File: 'Comet.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.233417 0.229953 0.209801
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cometgrey.png
+map_Bump Cometgrey.png
+map_Ks Cometgrey.png
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.378825 0.051843 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Cometlava.png
+map_Bump Cometlava.png
+map_Ks Cometlava.png
